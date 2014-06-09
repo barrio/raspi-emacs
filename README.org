@@ -1,3 +1,5 @@
+#+TITLE: Emacs als Python-Power-Editor für den RasPi
+
 * Wieso nur ausgerechnet Emacs???
 
 Ihr möchtet direkt auf Eurem Raspi coden, aber IDLE gefällt Euch
