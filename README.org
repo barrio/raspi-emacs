@@ -23,9 +23,9 @@ ständig STRG-C STRG-V, oder?
 
 Damit wir erstmal schnell loslegen können, holen wir uns die hoffnungslos veraltete Version 23 aus den Paketquellen:
 
-#+begin_src sh
+#+BEGIN_SRC sh
   sudo apt-get install emacs
-#+end_src
+#+END_SRC
 
 [[file:./Bilder/emacs_startbild.png]]
 
